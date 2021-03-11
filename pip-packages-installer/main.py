@@ -1,7 +1,6 @@
 
 from os import system
 from tkinter import *
-from time import sleep
 
 window = Tk()
 window.title("pip packages installer")
